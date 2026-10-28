@@ -1,0 +1,15 @@
+
+Asha Example
+Computer Science Student
+Email: asha.example@email.com
+
+Education
+Bachelor of Technology in Computer Science
+
+Technical Skills
+Python, C++, SQL
+
+Projects
+Student Management System
+Developed a student record management application using Python.
+    
